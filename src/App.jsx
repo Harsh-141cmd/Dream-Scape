@@ -26,7 +26,7 @@ function App() {
 
   return (
     <>
-      <h1>Image Generator</h1>
+      <h1>Dream Scape</h1>
       <div className="container">
         <div className="input-wrapper">
           <input type='text' id='text-input'value={searchItem}
